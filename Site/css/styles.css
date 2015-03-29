@@ -8,11 +8,21 @@ body {
        margin-bottom: 0; 
 }
 
-.jumbotron {
+.bg-range {
     background-image: url(../img/dummy.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
+}
+
+.bg-range .navbar {
+    background-color: transparent;
+    background-image: none;
+    border: none;
+}
+
+.jumbotron {
+    background-color: transparent;
     /* fonts */
     color: white;
     text-shadow: 0 0 6px rgba(0,0,0,0.6);
