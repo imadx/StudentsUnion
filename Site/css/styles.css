@@ -6,6 +6,12 @@ body {
 
 .navbar {
     margin-bottom: 0; 
+    border-radius: 0;
+}
+
+.bg-range .dropdown-menu {
+    border-radius: 0;
+    background-color: rgba(255,255,255,0.87);
 }
 
 .bg-range {
