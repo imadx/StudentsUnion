@@ -1,11 +1,15 @@
+/* DEFAULTS */
+
 body {
     font-family: georgia, serif;
 }
 
-.align-center {
-    text-align: center;
-}
-
 .navbar {
        margin-bottom: 0; 
+}
+
+/* HELPER CLASSES */
+
+.align-center {
+    text-align: center;
 }
