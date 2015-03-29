@@ -27,8 +27,8 @@ body {
 }
 
 .bg-range .navbar {
-    background-color: rgba(255,255,255,0.87);
-    background-image: none;
+    background-color: rgba(255,255,255,0.57);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.79), transparent);
     border: none;
 }
 
