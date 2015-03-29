@@ -8,6 +8,13 @@ body {
        margin-bottom: 0; 
 }
 
+.jumbotron {
+    background-image: url(../img/dummy.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+}
+
 /* HELPER CLASSES */
 
 .align-center {
