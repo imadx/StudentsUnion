@@ -18,6 +18,10 @@ body {
     text-shadow: 0 0 6px rgba(0,0,0,0.6);
 }
 
+.jumbotron h1 { font-size: 38px;}
+.jumbotron h2 { font-size: 32px;}
+.jumbotron h1, .jumbotron h2 { margin: 6px; }
+
 /* HELPER CLASSES */
 
 .align-center {
