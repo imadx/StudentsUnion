@@ -43,6 +43,8 @@ body {
 .jumbotron h2 { font-size: 32px;}
 .jumbotron h1, .jumbotron h2 { margin: 6px; }
 
+footer .copyright { text-align: center; }
+
 /* HELPER CLASSES */
 
 .align-center {
